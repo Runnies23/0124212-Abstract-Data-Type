@@ -17,7 +17,7 @@ int main(){
     return 0;
 }
 
-// Function compute roman number
+// Function compute roman number®
 int RomanNumber(int a){
     // printf("\nget : %d\n", a);
     int remainning;
